@@ -1,2 +1,2 @@
-# Data-Visualization with Tableau
-Tableau dashboards
+# Data-Visualization
+Tableau & Power BI dashboards
